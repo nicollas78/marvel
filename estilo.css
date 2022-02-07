@@ -1,0 +1,30 @@
+.centro{
+	 text-align: center;
+}
+
+#cor{
+	background-color: black;
+	color:white;
+	border: solid 1px red;
+}
+
+.pe{
+	background-color: #808080;
+	
+}
+.img{
+	padding: 10px;
+	width: 150px;
+	right: 150px;
+}
+#separar{
+	padding: 10px;
+
+} 
+.h{
+ padding: 10px;
+ color:black;
+}
+
+#ni{
+	float:right;}
